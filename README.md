@@ -1,5 +1,5 @@
 # Bad-Apple-bytebeat
-bad apple bytebeat code.
+bad apple bytebeat code. (20000hz)
 
 
 
